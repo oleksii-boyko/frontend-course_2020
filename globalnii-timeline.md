@@ -53,7 +53,5 @@ More();
 > Second row  
 > Third one
 
-{% page-ref page="globalnii-timeline.md" %}
-
-
+[https://www.youtube.com/watch?v=bHZvwyJK8dE](https://www.youtube.com/watch?v=bHZvwyJK8dE)
 
