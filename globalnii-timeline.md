@@ -1,6 +1,6 @@
 # Глобальний timeline
 
-![4 &#x43C;&#x456;&#x441;&#x44F;&#x446;&#x456; &#x43D;&#x430;&#x432;&#x447;&#x430;&#x43D;&#x43D;&#x44F;](.gitbook/assets/image%20%282%29.png)
+![4 &#x43C;&#x456;&#x441;&#x44F;&#x446;&#x456; &#x43D;&#x430;&#x432;&#x447;&#x430;&#x43D;&#x43D;&#x44F;](.gitbook/assets/image%20%282%29%20%281%29.png)
 
 Кожен елемент таймлайну відповідає одному тижню навчання на курсі.
 
@@ -53,5 +53,7 @@ More();
 > Second row  
 > Third one
 
-[https://www.youtube.com/watch?v=bHZvwyJK8dE](https://www.youtube.com/watch?v=bHZvwyJK8dE)
+{% embed url="https://www.youtube.com/watch?v=bHZvwyJK8dE" %}
+
+
 
