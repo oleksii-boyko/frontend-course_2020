@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Головне](README.md)
-* [Глобальний timeline](globalnii-timeline.md)
+* [Глобальний timeline](globalnii-time.md)
 * [Рев'ю](revyu/README.md)
   * [Оцінювання коду](revyu/ocinyuvannya-kodu/README.md)
     * [Як правильно заливати код?](revyu/ocinyuvannya-kodu/yak-pravilno-zalivati-kod.md)
