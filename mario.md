@@ -1,4 +1,6 @@
 # Mario
 
-@\([https://www.youtube.com/watch?v=BGaCjM2hal4](https://www.youtube.com/watch?v=BGaCjM2hal4)\)
+{% embed url="https://www.youtube.com/watch?v=BGaCjM2hal4" %}
+
+
 
